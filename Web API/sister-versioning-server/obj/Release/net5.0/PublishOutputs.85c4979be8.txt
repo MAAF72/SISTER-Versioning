@@ -1,0 +1,13 @@
+C:\Users\Anas\source\repos\sister-versioning-server\sister-versioning-server\obj\Release\net5.0\PubTmp\Out\sister-versioning-server.exe
+C:\Users\Anas\source\repos\sister-versioning-server\sister-versioning-server\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Anas\source\repos\sister-versioning-server\sister-versioning-server\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Anas\source\repos\sister-versioning-server\sister-versioning-server\obj\Release\net5.0\PubTmp\Out\sister-versioning-server.dll
+C:\Users\Anas\source\repos\sister-versioning-server\sister-versioning-server\obj\Release\net5.0\PubTmp\Out\sister-versioning-server.deps.json
+C:\Users\Anas\source\repos\sister-versioning-server\sister-versioning-server\obj\Release\net5.0\PubTmp\Out\sister-versioning-server.runtimeconfig.json
+C:\Users\Anas\source\repos\sister-versioning-server\sister-versioning-server\obj\Release\net5.0\PubTmp\Out\sister-versioning-server.pdb
+C:\Users\Anas\source\repos\sister-versioning-server\sister-versioning-server\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Anas\source\repos\sister-versioning-server\sister-versioning-server\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Anas\source\repos\sister-versioning-server\sister-versioning-server\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anas\source\repos\sister-versioning-server\sister-versioning-server\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anas\source\repos\sister-versioning-server\sister-versioning-server\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anas\source\repos\sister-versioning-server\sister-versioning-server\obj\Release\net5.0\PubTmp\Out\sister-versioning-server.xml

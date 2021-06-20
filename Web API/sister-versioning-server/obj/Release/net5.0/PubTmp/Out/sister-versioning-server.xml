@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>sister-versioning-server</name>
+    </assembly>
+    <members>
+        <member name="M:sister_versioning_server.Controllers.versioningController.GetLastestVersion">
+            <summary>
+            Get Lastest Version
+            </summary>
+            <returns>lastest version</returns>
+        </member>
+        <member name="M:sister_versioning_server.Controllers.versioningController.GetSelectedVersion(System.String)">
+            <summary>
+            Get version configuraton
+            </summary>
+            <param name="version">version to get</param>
+            <returns>selected version</returns>
+        </member>
+        <member name="M:sister_versioning_server.Controllers.versioningController.Post(sister_versioning_server.Models.Versioning)">
+            <summary>
+            Post version configuraton
+            </summary>
+            <param name="versioning">version to post</param>
+        </member>
+        <member name="M:sister_versioning_server.Controllers.versioningController.Put(System.String,sister_versioning_server.Models.Versioning)">
+            <summary>
+            Update version configuraton 
+            </summary>
+            <param name="version">version to update</param>
+            <param name="versioning">json configuration</param>
+        </member>
+        <member name="M:sister_versioning_server.Controllers.versioningController.Delete(System.String)">
+            <summary>
+            Remove version configuraton
+            </summary>
+            <param name="version">version to delete</param>
+        </member>
+    </members>
+</doc>
